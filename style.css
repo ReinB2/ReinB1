@@ -1,0 +1,13 @@
+* {
+    margin: 1;
+    padding: 0;
+}
+
+.hero {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(https://wallpapercave.com/w/wp6034893);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
